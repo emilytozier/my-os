@@ -1,0 +1,21 @@
+# Сборка
+build/
+*.o
+*.kernel
+*.iso
+iso/
+
+# Редакторы
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Бэкапы
+*-BACKUP*/
+*.bak
